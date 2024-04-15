@@ -1,5 +1,5 @@
 # Onehub Curl Library
-```
+```curl
 curl -X POST https://api.onehub.co.ke/v1/sms/send \
     -H 'Content-Type: application/json' \
     -H 'x-api-user: API_USERNAME_HERE' \
